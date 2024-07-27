@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+form { 
+  display:inline-block;
+  background-color: lightblue; 
+  padding:20px;
+} 
+
+form div { 
+    margin:20px;
+} 
+form div label { 
+  display:inline-block;
+  width:100px;
+} 
+
+img{
+  height:200px;
+  width:200px; 
+  background-color: lightblue;
+} 
+
+input { 
+  display:inline-block; 
+} 
+
+nav {
+  display:flex;
+  flex-direction: row; 
+  justify-content: space-between;
+  background-color:burlywood;
+  height:30px;
+  width:100%;  
+  color:darkorchid;
+} 
+
